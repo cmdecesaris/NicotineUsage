@@ -14,7 +14,7 @@ Recent or Past Users. No lack of fit was detected in the model.
 ## Data Description
 
 The dataset contained the demographics, personality assessment, and drug usage history of 1885 participants. Personality
-characteristics were quantified using the Big Five personality traits model and alternative models relying
+characteristics were quantified using the Big Five personality traits model (neuroticism, extraversion, openness to experience, agreeableness, and conscientiousness) and alternative models relying
 on impulsivity and sensation-seeking behaviors from phycological research (Fehrman et al, 2017).
 The drug consumption dataset was collected through an anonymous online survey and contains 5
 categorical variables, 7 numerical score variables, and a series of categorical responses indicating the
