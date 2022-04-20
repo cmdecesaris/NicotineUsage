@@ -1,4 +1,4 @@
-# Mushroom Classification
+# Personality and Demographic Characteristics Influencing Nicotine Usage Status
 
 ## Project Introduction 
 
