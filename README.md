@@ -1,6 +1,6 @@
 # Personality and Demographic Characteristics Influencing Nicotine Usage Status
 
-## Project Introduction 
+## Project Overview 
 
 Nicotine is a highly addictive substance known to cause cancer and other health problems (Saha et al,
 2007). To better understand the personality and demographic characteristics which influence nicotine
